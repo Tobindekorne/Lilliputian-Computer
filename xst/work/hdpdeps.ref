@@ -1,0 +1,16 @@
+V3 7
+FL C:/Users/new/Desktop/Phys301/WarmFeeling/debounce.vhd 2017/11/30.13:42:01 P.20131013
+EN work/switch_debounce 1512081432 \
+      FL C:/Users/new/Desktop/Phys301/WarmFeeling/debounce.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/switch_debounce/Behavioral 1512081433 \
+      FL C:/Users/new/Desktop/Phys301/WarmFeeling/debounce.vhd \
+      EN work/switch_debounce 1512081432
+FL C:/Users/new/Desktop/Phys301/WarmFeeling/key4_dbnc.vhd 2017/11/30.13:42:01 P.20131013
+EN work/key4_dbnc 1512081434 \
+      FL C:/Users/new/Desktop/Phys301/WarmFeeling/key4_dbnc.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/key4_dbnc/Behavioral 1512081435 \
+      FL C:/Users/new/Desktop/Phys301/WarmFeeling/key4_dbnc.vhd EN work/key4_dbnc 1512081434 \
+      CP switch_debounce

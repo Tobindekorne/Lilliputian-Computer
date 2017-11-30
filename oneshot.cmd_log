@@ -1,0 +1,2 @@
+vhdtdtfi -lib work oneshot.vhd -prj WarmFeeling -o oneshot.spl -module oneshot -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e oneshot.spl C:/Users/new/Desktop/Phys301/WarmFeeling/oneshot.sym 

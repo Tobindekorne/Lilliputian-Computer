@@ -1,0 +1,2 @@
+vhdtdtfi -lib work sseg_mux4D.vhd -prj WarmFeeling -o sseg_mux4D.spl -module sseg_mux4D -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e sseg_mux4D.spl C:/Users/new/Desktop/Phys301/WarmFeeling/sseg_mux4D.sym 

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work DCM_100M.vhd -prj WarmFeeling -o DCM_100M.spl -module DCM_100M -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e DCM_100M.spl C:/Users/new/Desktop/Phys301/WarmFeeling/DCM_100M.sym 

@@ -1,0 +1,4 @@
+AR key4_dbnc behavioral C:/Users/new/Desktop/Phys301/WarmFeeling/key4_dbnc.vhd sub00/vhpl03 1512081435
+EN key4_dbnc NULL C:/Users/new/Desktop/Phys301/WarmFeeling/key4_dbnc.vhd sub00/vhpl02 1512081434
+EN switch_debounce NULL C:/Users/new/Desktop/Phys301/WarmFeeling/debounce.vhd sub00/vhpl00 1512081432
+AR switch_debounce behavioral C:/Users/new/Desktop/Phys301/WarmFeeling/debounce.vhd sub00/vhpl01 1512081433

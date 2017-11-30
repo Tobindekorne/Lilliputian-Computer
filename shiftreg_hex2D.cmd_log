@@ -1,0 +1,2 @@
+vhdtdtfi -lib work shiftreg_hex2D.vhd -prj WarmFeeling -o shiftreg_hex2D.spl -module shiftreg_hex2D -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e shiftreg_hex2D.spl C:/Users/new/Desktop/Phys301/WarmFeeling/shiftreg_hex2D.sym 

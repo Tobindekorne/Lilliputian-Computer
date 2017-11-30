@@ -1,0 +1,2 @@
+vhdtdtfi -lib work key_detect.vhd -prj WarmFeeling -o key_detect.spl -module key_detect -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e key_detect.spl C:/Users/new/Desktop/Phys301/WarmFeeling/key_detect.sym 
